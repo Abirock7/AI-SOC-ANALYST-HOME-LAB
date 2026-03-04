@@ -127,7 +127,9 @@ Add threat intelligence enrichment
 
 ---
 
-# Author
+## Author
 
-Cybersecurity Lab Project  
-SOC Analyst Automation
+**Abirock**
+
+Cybersecurity Student | Blue Team Enthusiast  
+Project: AI SOC Analyst Home Lab
