@@ -92,7 +92,7 @@ AI SOC Agent (Airia)
 # Screenshots
 
 ## Attacker Machine
-![Attacker](./screenshots/attacker%20machine.jpg)
+![Attacker](screenshots/attacker_machine.jpg)
 
 ## Internal Server Detection
 ![Internal Server](screenshots/internals%20sever.jpg)
