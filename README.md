@@ -11,7 +11,7 @@ This project demonstrates how security alerts can be automatically analyzed usin
 
 # Architecture
 
-![Lab Architecture](architecture/lab_architecture.png)
+![Lab Architecture](architecture/soc_lab_architecture.png)
 
 The lab simulates a small enterprise network where an attacker generates suspicious traffic and an AI SOC agent automatically analyzes alerts.
 
@@ -92,13 +92,13 @@ AI SOC Agent (Airia)
 # Screenshots
 
 ## Attacker Machine
-![Attacker](screenshots/attacker_machine.png)
+![Attacker](screenshots/attacker_machine.jpg)
 
 ## Internal Server Detection
-![Server](screenshots/internal_server.png)
+![Server](screenshots/internals_server.jpg)
 
 ## AI SOC Agent Analysis
-![SOC Agent](screenshots/soc_agent_output.png)
+![SOC Agent](screenshots/soc_agent_output.jpg)
 
 ---
 
